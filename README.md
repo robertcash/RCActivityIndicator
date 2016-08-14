@@ -19,6 +19,8 @@ RCActivityIndicator.hide() // 3
 
 Just put RCActivity Indicator in your Xcode project. 
 
+<b> Example </b>
+
 ![alt text] (https://s3-us-west-2.amazonaws.com/otherpoundsofstuff/Simulator+Screen+Shot+Aug+14%2C+2016%2C+1.57.57+AM.png)
 
 
