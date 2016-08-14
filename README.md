@@ -16,6 +16,7 @@ RCActivityIndicator.hide() // 3
 3. Hides activity indicator.
 
 <b> Install </b>
+
 Just put RCActivity Indicator in your Xcode project. 
 
 ![alt text] (https://s3-us-west-2.amazonaws.com/otherpoundsofstuff/Simulator+Screen+Shot+Aug+14%2C+2016%2C+1.57.57+AM.png)
