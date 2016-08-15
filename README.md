@@ -17,7 +17,7 @@ RCActivityIndicator.hide() // 3
 
 <b> Install </b>
 
-Just put RCActivity Indicator in your Xcode project. 
+Just put RCActivityIndicator.swift in your Xcode project. 
 
 <b> Example </b>
 
