@@ -1,5 +1,5 @@
 # RCActivityIndicator
-Full screen activity indicator for Swift 3 (Works with Xcode beta 4).
+Full screen activity indicator for Swift 3 (Works with Xcode beta 6).
 
 <b> How to Use </b>
 
